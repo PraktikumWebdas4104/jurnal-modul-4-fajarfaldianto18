@@ -4,8 +4,8 @@
 			$username=$_POST=['username']
 			$password=$_POST=['password']
 			 $user=array(
-			 	"user"=>"yoga",
-			 	"pass"=>"maulana"):
+			 	"user"=>"fajar",
+			 	"pass"=>"fajar"):
 
 			 if ($username==$user['user']&&$password==$user['pass']){
 			 	echo "Berhasil SELALU:"."<br>>";
